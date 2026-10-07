@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./panther.webp" width="100%" alt="Black Panther inspired technology banner"/>
+<img src="./panther.webp" width="50%" alt="Black Panther inspired technology banner"/>
 
 # VISHAL PRITHIVI K S
 
